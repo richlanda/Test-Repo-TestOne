@@ -1,0 +1,14 @@
+{
+  "appname": "Test Repo TestOne",
+  "scope": "FullAccess",
+  "clientid": "718ED6F4-7FB7-4082-B542-B939E5F0CF78",
+  "buyerid": "TestOne",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
